@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fc2f8c2-f6d3-4f50-b0cc-43f3329ac613" name="Changes" comment="add item3">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7fc2f8c2-f6d3-4f50-b0cc-43f3329ac613" name="Changes" comment="add item">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/nbc/docker/sampleapp/SampleappApplicationTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/nbc/docker/sampleapp/SampleappApplicationTests.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature/add-item3" />
-                    <option name="lastUsedInstant" value="1723440098" />
+                    <option name="lastUsedInstant" value="1723441252" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
@@ -213,7 +213,7 @@
       <workItem from="1721353974077" duration="10391000" />
       <workItem from="1723430492303" duration="2246000" />
       <workItem from="1723439413695" duration="898000" />
-      <workItem from="1723440859357" duration="347000" />
+      <workItem from="1723440859357" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="add git ignore">
       <option name="closed" value="true" />
@@ -247,7 +247,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723441063597</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="config sync">
+      <option name="closed" value="true" />
+      <created>1723441228010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723441228010</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add item">
+      <option name="closed" value="true" />
+      <created>1723441282675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723441282675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add item">
+      <option name="closed" value="true" />
+      <created>1723441393682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723441393682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +280,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add git ignore" />
     <MESSAGE value="add item3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add item3" />
+    <MESSAGE value="config sync" />
+    <MESSAGE value="add item" />
+    <option name="LAST_COMMIT_MESSAGE" value="add item" />
   </component>
 </project>
