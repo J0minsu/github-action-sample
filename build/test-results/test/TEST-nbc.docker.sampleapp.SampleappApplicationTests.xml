@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nbc.docker.sampleapp.SampleappApplicationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-26T02:34:51" hostname="minsusui-MacBookPro.local" time="1.043">
+  <properties/>
+  <testcase name="findAll()" classname="nbc.docker.sampleapp.SampleappApplicationTests" time="1.038"/>
+  <testcase name="contextLoads()" classname="nbc.docker.sampleapp.SampleappApplicationTests" time="0.003"/>
+  <system-out><![CDATA[11:34:49.846 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [nbc.docker.sampleapp.SampleappApplicationTests]: SampleappApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+11:34:49.984 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration nbc.docker.sampleapp.SampleappApplication for test class nbc.docker.sampleapp.SampleappApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2024-07-26T11:34:50.389+09:00  INFO 81802 --- [    Test worker] n.d.sampleapp.SampleappApplicationTests  : Starting SampleappApplicationTests using Java 17.0.11 with PID 81802 (started by minsujo in /Users/minsujo/Documents/repositories/sparta/git-action-cicd)
+2024-07-26T11:34:50.392+09:00  INFO 81802 --- [    Test worker] n.d.sampleapp.SampleappApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-07-26T11:34:51.336+09:00  INFO 81802 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2024-07-26T11:34:51.349+09:00  INFO 81802 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-26T11:34:51.350+09:00  INFO 81802 --- [    Test worker] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-07-26T11:34:51.412+09:00  INFO 81802 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-26T11:34:51.413+09:00  INFO 81802 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 964 ms
+2024-07-26T11:34:51.809+09:00  INFO 81802 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57162 (http) with context path ''
+2024-07-26T11:34:51.818+09:00  INFO 81802 --- [    Test worker] n.d.sampleapp.SampleappApplicationTests  : Started SampleappApplicationTests in 1.702 seconds (process running for 2.727)
+2024-07-26T11:34:52.732+09:00  INFO 81802 --- [o-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-26T11:34:52.733+09:00  INFO 81802 --- [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-26T11:34:52.734+09:00  INFO 81802 --- [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
