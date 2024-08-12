@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fc2f8c2-f6d3-4f50-b0cc-43f3329ac613" name="Changes" comment="config sync">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nbc/docker/sampleapp/SampleController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nbc/docker/sampleapp/SampleController.kt" afterDir="false" />
+    <list default="true" id="7fc2f8c2-f6d3-4f50-b0cc-43f3329ac613" name="Changes" comment="add item">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/run-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/run-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,7 @@
       <workItem from="1721353974077" duration="10391000" />
       <workItem from="1723430492303" duration="2246000" />
       <workItem from="1723439413695" duration="898000" />
-      <workItem from="1723440859357" duration="404000" />
+      <workItem from="1723440859357" duration="518000" />
     </task>
     <task id="LOCAL-00001" summary="add git ignore">
       <option name="closed" value="true" />
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723441228010</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add item">
+      <option name="closed" value="true" />
+      <created>1723441282675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723441282675</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +273,7 @@
     <MESSAGE value="add git ignore" />
     <MESSAGE value="add item3" />
     <MESSAGE value="config sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="config sync" />
+    <MESSAGE value="add item" />
+    <option name="LAST_COMMIT_MESSAGE" value="add item" />
   </component>
 </project>
